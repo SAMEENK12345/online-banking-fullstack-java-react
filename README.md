@@ -93,6 +93,6 @@ React, Redux, Thunk usage. JavaScript experiences. Communication with backend. C
   
 ## Programmers
 
-- [@Berko01](https://github.com/Berko01) design and development.
+- [@SAMEENK12345](https://github.com/SAMEENK12345/) design and development.
 
   
